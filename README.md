@@ -1,3 +1,5 @@
+LOCAL
+
 # mergeconflict
 
 Par les soirs bleus d’été, j’irai dans les sentiers,
